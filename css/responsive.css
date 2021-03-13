@@ -1,0 +1,160 @@
+
+
+@media(max-width: 479.98px){
+    .banner_text h1{
+        letter-spacing: 0px !important;
+    }
+}
+
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media(max-width: 575.98px) { 
+
+    .openNav{
+        display: block;
+    }
+    .navbar {
+        padding: 11px 17px;
+    }
+    #banner_part {
+        padding: 170px 0px 110px 0px;
+    }
+    .banner_text h1 {
+        font-size: 55px;
+        letter-spacing: 14px;
+        margin-top:15px;
+        margin-bottom:15px;
+    }
+    #about_part {
+        padding: 60px 0;
+    }
+    .about_head p {
+        padding: 0;
+        margin-bottom: 30px;
+    }
+    .about_text {
+        padding: 32px 0;
+        border: none;
+    }
+    #service_part {
+        padding-top: 45px;
+        padding-bottom: 50px;
+    }
+    #work_part {
+        padding-top: 55px;
+    }
+    .work_image {
+        margin-bottom: 20px;
+    }
+    .work_head p {
+        margin-bottom: 50px;
+    }
+    .contact_top_wrap {
+        padding-top: 60px;
+    }
+    .same_contact_input {
+        padding-top: 60px;
+        padding-bottom: 18px;
+    }
+    #message_box{
+        padding-top: 33px;
+    }
+    #submit_button {
+        margin-top: 78px !important;
+    }
+    .contact_submit_button {
+        margin-top: 45px;
+        margin-bottom: 48px;
+    }
+
+}
+
+
+
+
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media(min-width: 576px) and (max-width: 767.98px) { 
+
+    .openNav{
+        display: block;
+    }
+    #banner_part {
+        padding: 170px 0px 110px 0px;
+    }
+    .banner_text h1 {
+        font-size: 55px;
+        letter-spacing: 14px;
+        margin-top:15px;
+        margin-bottom:15px;
+    }
+    #about_part {
+        padding: 60px 0;
+    }
+    .about_head p {
+        padding: 0;
+        margin-bottom: 30px;
+    }
+    .about_text {
+        padding: 32px 0;
+        border: none;
+    }
+    #service_part {
+        padding-top: 45px;
+        padding-bottom: 50px;
+    }
+    #work_part {
+        padding-top: 55px;
+    }
+    .work_head p {
+        margin-bottom: 50px;
+    }
+    .contact_top_wrap {
+        padding-top: 60px;
+    }
+}
+
+
+
+
+
+/*// Medium devices (tablets, 768px and up)*/
+@media(min-width: 768px) and (max-width: 991.98px) { 
+
+    .openNav{
+        display: block;
+    }
+    .about_text{
+        border:0;
+    }
+    .about_head p {
+        padding: 0;
+        margin-bottom: 30px;
+    }
+
+}
+
+
+
+
+
+/*// Large devices (desktops, 992px and up)*/
+@media(min-width: 992px) and (max-width: 1199.98px) { 
+
+
+
+}
+
+
+
+
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media(min-width: 1200px) { 
+
+
+
+}
+
+
+
